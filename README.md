@@ -1,0 +1,2 @@
+# premium-puppet-make-001-puppet-marionette-making-joint
+Tired of your marionette's strings tangling or limbs flopping? The right jointing and string plan is the difference between a puppet that dances and one that dangles.  This Notion template eliminates the guesswork of attaching strings to joints, giving you a clear visual layout for each connection point, string length, and movement axis. It's the o
